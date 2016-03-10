@@ -12,7 +12,7 @@
 
         <!--
             We define the data templates here so we can apply them across the
-            entire application.
+            entire application
             
             The data template just says that if our data type is of a particular
             view-model type, then render the appropriate view.  The framework
